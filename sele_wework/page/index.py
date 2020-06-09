@@ -4,7 +4,7 @@ from sele_wework.page.basepage import Basepage
 from sele_wework.page.login import Login
 from sele_wework.page.rigist import Rigist
 from selenium.webdriver.remote.webdriver import WebDriver
-
+#asdf
 class Index(Basepage):
     base_url = 'https://work.weixin.qq.com/'
     def goto_login(self):
